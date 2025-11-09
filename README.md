@@ -5,6 +5,7 @@ Este proyecto fue desarrollado con dedicación por:
 *   **Neptali Ramirez** - *Desarrollo del backend y análisis de datos* - [GitHub](https://github.com/Alessandro-45)
 *   **Diego Guevara** - *Desarrollo del frontend* - [GitHub](https://github.com/DiegoSmeldry)
 *   **Cesar Gutierrez** - *Desarrollo del frontend* - [GitHub](https://github.com/CaesarAlejandro)
+*   **Video** - https://www.youtube.com/watch?v=P-LzUlc2kDc
 
 
   # Physics on Autopilot: Visualizador de Datos del Bosón de Higgs
